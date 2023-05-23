@@ -1,8 +1,8 @@
 # MGA_802_Jeu_du_pendu
 Ce dépôt contient 3 fichiers :
 - ce fichier readme qui explique comment utiliser les autres fichiers
-- un fichier 'mots_pendu.txt' qui contient une liste de mots servant de base de donnée au fichier python ('.py)
-- un fichier python 'Jeu-du-pendu' qui contient le code permettant de jouer au jeu du pendu à partir du fichier '.txt' inclu dans ce dépôt.
+- un fichier 'mots_pendu.txt' qui contient une liste de mots servant de base de donnée au fichier python ('.py')
+- un fichier python 'Jeu-du-pendu.py' qui contient le code permettant de jouer au jeu du pendu à partir du fichier '.txt' inclu dans ce dépôt.
 
 Afin de jouer au jeu du pendu, il faut télécharger les 2 fichiers, puis 'run' le fichier python (avec pycharms par exemple) 
 Le code vous demande d'entrer des lettres une à une afin de trouver le mot qui a été tiré aléatoirement parmi la liste.
